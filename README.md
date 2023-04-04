@@ -6,9 +6,10 @@
  ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to AWS Cloud9!
+Codigo creado en AWS Cloud9!
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+| id | nombre | correo |
+|----|--------|--------|
+| 1  | Gustavo Trillo   | gustavo.trillo.alu@upal.edu.pe |
+| 2  | Jhordand Gutierrez    | jhordand.gutierrez.alu@upal.edu.pe |
+| 3  | Diego Montealegre  | diego.montealegre.alu@upal.edu.pe|
