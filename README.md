@@ -19,7 +19,6 @@ Estudiantes :
 | 1  | Gustavo Trillo   | gustavo.trillo.alu@upal.edu.pe |
 | 2  | Jhordand Gutierrez    | jhordand.gutierrez.alu@upal.edu.pe |
 | 3  | Diego Montealegre  | diego.montealegre.alu@upal.edu.pe|
-| 4  | Luis Parihuaman  | luis.pariahuaman.alu@upal.edu.pe|
 | 5  | Jean Pantigoso  | jeanpierre.pantigoso.alu@upal.edu.pe|
 | 6  | Sandro Ballivian  | sandro.ballivian.alu@upal.edu.pe|
 | 7  | Sebastian Espiritu  | sebastian.espiritu.alu@upal.edu.pe|

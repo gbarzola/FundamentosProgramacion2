@@ -4,7 +4,7 @@ class Figura(ABC):
     @abstractmethod
     def area(self):
         pass
-    
+
 class Triangulo(Figura):
     def area(self):
         print("Area del triangulo")
